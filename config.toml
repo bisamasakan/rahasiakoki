@@ -1,6 +1,6 @@
-baseURL = "https://sahabatmasak.web.app/"
+baseURL = "https://temanmasak.web.app/"
 languageCode = "id-ID"
-title = "Sahabat Masak"
+title = "Teman Masak"
 theme = "big"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "big"
 [params]
   description = "Koleksi berbagai resep pilihan populer yang enak dan lezat"
   topdescription = "Koleksi berbagai resep pilihan populer yang enak dan lezat"
-  toptitle = "Sahabat Masak"
+  toptitle = "Teman Masak"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://sahabatmasak.web.app/"
+    homepage = "https://temanmasak.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
