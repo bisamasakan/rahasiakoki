@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "masakanbisa",
+    "site": "koleksikuliner",
     "public": "public",
     "ignore": [
       "firebase.json",
