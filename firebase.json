@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "koleksikuliner",
+    "site": "sahabatmasak",
     "public": "public",
     "ignore": [
       "firebase.json",

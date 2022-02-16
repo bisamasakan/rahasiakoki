@@ -1,6 +1,6 @@
-baseURL = "https://koleksikuliner.web.app/"
+baseURL = "https://sahabatmasak.web.app/"
 languageCode = "id-ID"
-title = "Koleksi Kuliner"
+title = "Sahabat Masak"
 theme = "big"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "big"
 [params]
   description = "Koleksi berbagai resep pilihan populer yang enak dan lezat"
   topdescription = "Koleksi berbagai resep pilihan populer yang enak dan lezat"
-  toptitle = "Koleksi Kuliner"
+  toptitle = "Sahabat Masak"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://koleksikuliner.web.app/"
+    homepage = "https://sahabatmasak.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
