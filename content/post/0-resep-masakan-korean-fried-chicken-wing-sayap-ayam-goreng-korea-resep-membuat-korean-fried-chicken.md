@@ -2,7 +2,7 @@
 description: "Resep masakan Korean fried chicken wing/ sayap ayam goreng Korea | Resep Membuat Korean fried chicken wing/ sayap ayam goreng Korea Yang Lezat"
 title: "Resep masakan Korean fried chicken wing/ sayap ayam goreng Korea | Resep Membuat Korean fried chicken wing/ sayap ayam goreng Korea Yang Lezat"
 slug: 0-resep-masakan-korean-fried-chicken-wing-sayap-ayam-goreng-korea-resep-membuat-korean-fried-chicken-wing-sayap-ayam-goreng-korea-yang-lezat
-date: 2020-09-23T16:23:30.650Z
+date: 2021-09-23T16:23:30.650Z
 image: https://img-global.cpcdn.com/recipes/037626619b820bd4/751x532cq70/korean-fried-chicken-wing-sayap-ayam-goreng-korea-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/037626619b820bd4/751x532cq70/korean-fried-chicken-wing-sayap-ayam-goreng-korea-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/037626619b820bd4/751x532cq70/korean-fried-chicken-wing-sayap-ayam-goreng-korea-foto-resep-utama.jpg

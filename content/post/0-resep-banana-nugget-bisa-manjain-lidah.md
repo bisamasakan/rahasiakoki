@@ -2,7 +2,7 @@
 description: "Resep Banana Nugget, Bisa Manjain Lidah"
 title: "Resep Banana Nugget, Bisa Manjain Lidah"
 slug: 0-resep-banana-nugget-bisa-manjain-lidah
-date: 2020-08-16T01:15:07.997Z
+date: 2021-08-16T01:15:07.997Z
 image: https://img-global.cpcdn.com/recipes/9af5cf0a80c45665/751x532cq70/banana-nugget-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/9af5cf0a80c45665/751x532cq70/banana-nugget-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/9af5cf0a80c45665/751x532cq70/banana-nugget-foto-resep-utama.jpg

@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "bagiresepdapur",
+    "site": "bisamasakan",
     "public": "public",
     "ignore": [
       "firebase.json",

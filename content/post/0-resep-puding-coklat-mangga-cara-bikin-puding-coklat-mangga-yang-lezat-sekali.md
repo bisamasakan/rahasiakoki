@@ -2,7 +2,7 @@
 description: "Resep Puding coklat mangga. | Cara Bikin Puding coklat mangga. Yang Lezat Sekali"
 title: "Resep Puding coklat mangga. | Cara Bikin Puding coklat mangga. Yang Lezat Sekali"
 slug: 0-resep-puding-coklat-mangga-cara-bikin-puding-coklat-mangga-yang-lezat-sekali
-date: 2020-05-01T03:03:38.807Z
+date: 2021-05-01T03:03:38.807Z
 image: https://img-global.cpcdn.com/recipes/48bbe35ba718016f/751x532cq70/puding-coklat-mangga-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/48bbe35ba718016f/751x532cq70/puding-coklat-mangga-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/48bbe35ba718016f/751x532cq70/puding-coklat-mangga-foto-resep-utama.jpg

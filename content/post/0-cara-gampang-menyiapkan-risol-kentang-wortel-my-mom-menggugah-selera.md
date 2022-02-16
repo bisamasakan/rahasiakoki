@@ -2,7 +2,7 @@
 description: "Cara Gampang Menyiapkan Risol kentang wortel my mom, Menggugah Selera"
 title: "Cara Gampang Menyiapkan Risol kentang wortel my mom, Menggugah Selera"
 slug: 0-cara-gampang-menyiapkan-risol-kentang-wortel-my-mom-menggugah-selera
-date: 2020-10-23T05:21:59.852Z
+date: 2021-10-23T05:21:59.852Z
 image: https://img-global.cpcdn.com/recipes/a432af5643a350f7/751x532cq70/risol-kentang-wortel-my-mom-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/a432af5643a350f7/751x532cq70/risol-kentang-wortel-my-mom-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/a432af5643a350f7/751x532cq70/risol-kentang-wortel-my-mom-foto-resep-utama.jpg

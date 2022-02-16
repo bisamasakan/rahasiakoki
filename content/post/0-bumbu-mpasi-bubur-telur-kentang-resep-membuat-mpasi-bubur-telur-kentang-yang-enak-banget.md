@@ -2,7 +2,7 @@
 description: "Bumbu MPASI Bubur Telur Kentang | Resep Membuat MPASI Bubur Telur Kentang Yang Enak Banget"
 title: "Bumbu MPASI Bubur Telur Kentang | Resep Membuat MPASI Bubur Telur Kentang Yang Enak Banget"
 slug: 0-bumbu-mpasi-bubur-telur-kentang-resep-membuat-mpasi-bubur-telur-kentang-yang-enak-banget
-date: 2020-09-04T13:13:22.453Z
+date: 2021-09-04T13:13:22.453Z
 image: https://img-global.cpcdn.com/recipes/8c113e593dedeb95/751x532cq70/mpasi-bubur-telur-kentang-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/8c113e593dedeb95/751x532cq70/mpasi-bubur-telur-kentang-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/8c113e593dedeb95/751x532cq70/mpasi-bubur-telur-kentang-foto-resep-utama.jpg

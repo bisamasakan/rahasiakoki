@@ -2,7 +2,7 @@
 description: "Bumbu Rendang Ayam santan kara (alakadarnya) | Cara Membuat Rendang Ayam santan kara (alakadarnya) Yang Lezat Sekali"
 title: "Bumbu Rendang Ayam santan kara (alakadarnya) | Cara Membuat Rendang Ayam santan kara (alakadarnya) Yang Lezat Sekali"
 slug: 0-bumbu-rendang-ayam-santan-kara-alakadarnya-cara-membuat-rendang-ayam-santan-kara-alakadarnya-yang-lezat-sekali
-date: 2020-07-20T16:55:57.642Z
+date: 2021-07-20T16:55:57.642Z
 image: https://img-global.cpcdn.com/recipes/ff1f9d5c5fded8fc/751x532cq70/rendang-ayam-santan-kara-alakadarnya-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/ff1f9d5c5fded8fc/751x532cq70/rendang-ayam-santan-kara-alakadarnya-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/ff1f9d5c5fded8fc/751x532cq70/rendang-ayam-santan-kara-alakadarnya-foto-resep-utama.jpg

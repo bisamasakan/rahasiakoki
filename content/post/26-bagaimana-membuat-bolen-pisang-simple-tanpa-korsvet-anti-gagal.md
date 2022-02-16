@@ -2,7 +2,7 @@
 description: "Bagaimana Membuat Bolen Pisang Simple tanpa Korsvet Anti Gagal"
 title: "Bagaimana Membuat Bolen Pisang Simple tanpa Korsvet Anti Gagal"
 slug: 26-bagaimana-membuat-bolen-pisang-simple-tanpa-korsvet-anti-gagal
-date: 2020-10-03T05:38:48.412Z
+date: 2021-10-03T05:38:48.412Z
 image: https://img-global.cpcdn.com/recipes/6f444f4d0660b58c/751x532cq70/bolen-pisang-simple-tanpa-korsvet-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/6f444f4d0660b58c/751x532cq70/bolen-pisang-simple-tanpa-korsvet-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/6f444f4d0660b58c/751x532cq70/bolen-pisang-simple-tanpa-korsvet-foto-resep-utama.jpg

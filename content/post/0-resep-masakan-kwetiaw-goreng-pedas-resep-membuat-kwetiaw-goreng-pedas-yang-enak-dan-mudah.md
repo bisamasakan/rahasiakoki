@@ -2,7 +2,7 @@
 description: "Resep masakan Kwetiaw goreng pedas | Resep Membuat Kwetiaw goreng pedas Yang Enak Dan Mudah"
 title: "Resep masakan Kwetiaw goreng pedas | Resep Membuat Kwetiaw goreng pedas Yang Enak Dan Mudah"
 slug: 0-resep-masakan-kwetiaw-goreng-pedas-resep-membuat-kwetiaw-goreng-pedas-yang-enak-dan-mudah
-date: 2020-09-27T13:40:56.607Z
+date: 2021-09-27T13:40:56.607Z
 image: https://img-global.cpcdn.com/recipes/962ab964b7cc1b1d/751x532cq70/kwetiaw-goreng-pedas-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/962ab964b7cc1b1d/751x532cq70/kwetiaw-goreng-pedas-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/962ab964b7cc1b1d/751x532cq70/kwetiaw-goreng-pedas-foto-resep-utama.jpg

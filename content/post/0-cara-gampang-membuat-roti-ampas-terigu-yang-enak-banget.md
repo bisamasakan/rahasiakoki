@@ -2,7 +2,7 @@
 description: "Cara Gampang Membuat Roti Ampas Terigu yang Enak Banget"
 title: "Cara Gampang Membuat Roti Ampas Terigu yang Enak Banget"
 slug: 0-cara-gampang-membuat-roti-ampas-terigu-yang-enak-banget
-date: 2020-08-26T04:52:29.276Z
+date: 2021-08-26T04:52:29.276Z
 image: https://img-global.cpcdn.com/recipes/bcd4c4d329c4da6b/751x532cq70/roti-ampas-terigu-foto-resep-utama.jpg
 thumbnail: https://img-global.cpcdn.com/recipes/bcd4c4d329c4da6b/751x532cq70/roti-ampas-terigu-foto-resep-utama.jpg
 cover: https://img-global.cpcdn.com/recipes/bcd4c4d329c4da6b/751x532cq70/roti-ampas-terigu-foto-resep-utama.jpg
