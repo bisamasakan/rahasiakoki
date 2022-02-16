@@ -11,8 +11,8 @@ theme = "big"
   post = ":slug"
 
 [params]
-  description = "Koleksi resep pilihan populer yang enak dan lezat"
-  topdescription = "Koleksi resep pilihan populer yang enak dan lezat"
+  description = "Koleksi berbagai resep pilihan populer yang enak dan lezat"
+  topdescription = "Koleksi berbagai resep pilihan populer yang enak dan lezat"
   toptitle = "Koleksi Kuliner"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
