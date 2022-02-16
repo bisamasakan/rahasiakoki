@@ -1,6 +1,6 @@
-baseURL = "https://anekamasakankita.web.app/"
+baseURL = "https://bagiresepdapur.web.app/"
 languageCode = "id-ID"
-title = "Aneka Masakan Kita"
+title = "Bagi Resep Dapur"
 theme = "big"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "big"
 [params]
   description = "Koleksi resep pilihan enak dan lezat"
   topdescription = "Koleksi resep pilihan enak dan lezat"
-  toptitle = "Aneka Masakan Kita"
+  toptitle = "Bagi Resep Dapur"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://anekamasakankita.web.app/"
+    homepage = "https://bagiresepdapur.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
