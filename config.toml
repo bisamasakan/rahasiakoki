@@ -1,6 +1,6 @@
-baseURL = "https://bisamasakan.web.app/"
+baseURL = "https://masakanbisa.web.app/"
 languageCode = "id-ID"
-title = "Bisa Masakan"
+title = "Masakan Bisa"
 theme = "big"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "big"
 [params]
   description = "Koleksi resep pilihan populer yang enak dan lezat"
   topdescription = "Koleksi resep pilihan populer yang enak dan lezat"
-  toptitle = "Bisa Masakan"
+  toptitle = "Masakan Bisa"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://bisamasakan.web.app/"
+    homepage = "https://masakanbisa.web.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
